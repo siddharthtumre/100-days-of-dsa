@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `100 Days of DSA`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Siddharth Tumre`,
+      summary: `who is pursuing Master of Technology in Computer Technology at IIT Delhi.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog to keep track of my 100 days of data structures and algorithms learnings.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `siddharth_tumre`,
     },
   },
   plugins: [

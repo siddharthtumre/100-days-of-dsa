@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "100-days-of-dsa",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog to keep track of my 100 days of data structures and algorithms learnings.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Siddharth Tumre <siddharth.tumre@outlook.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
