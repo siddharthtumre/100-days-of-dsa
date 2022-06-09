@@ -1,5 +1,5 @@
 ---
-title: "Day 1 of 100DaysOfDSA"
+title: "Day 1 - Two Pointers"
 date: "2022-06-09"
 ---
 
@@ -149,7 +149,7 @@ public:
 [3Sum](https://leetcode.com/problems/3sum/)
 - Approach
 	- Brute force - 3 for loops, O(n<sup>3</sup>)
-	- Fix one pointer in a for loop and then move other 2 pointers, O(n<sup>2</sup> + n)
+	- Fix one pointer in a for loop and then move other 2 pointers, O(n<sup>2</sup>)
 
 ```
 class Solution {
