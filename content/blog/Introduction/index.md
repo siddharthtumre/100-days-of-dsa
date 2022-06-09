@@ -1,5 +1,5 @@
 ---
-title: "100DaysOfDSA"
+title: "100DaysOfDSA: What is this about?"
 date: "2022-06-08"
 ---
 This series of blogs are to keep track of all the learnings as part of **100DaysOfDSA**. At the end it will be a good place to revise everything that I had learned during the period. I will be uploading one blog each day with listing the concepts I learned and problems I solved along with code and references if any.
