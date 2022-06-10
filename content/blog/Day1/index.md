@@ -10,7 +10,7 @@ Today I had been solving problems related to the two pointers concept. This tech
 	- Brute force - 2 for loops, O(n<sup>2</sup>)
 	- Two pointers - O(n)
 
-```
+```cpp
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
@@ -39,7 +39,7 @@ public:
 	- Brute force - 2 for loops, O(n<sup>2</sup>)
 	- Two pointers - O(n)
 
-```
+```cpp
 int Solution::diffPossible(vector<int> &A, int B) {
     int i = 0, j = 1;
     while(i < A.size() && j < A.size())
@@ -63,7 +63,7 @@ int Solution::diffPossible(vector<int> &A, int B) {
 	- Brute force - O(n<sup>2</sup>)
 	- Two Pointers - O(n+m)
 
-```
+```cpp
 vector<int> Solution::intersect(const vector<int> &A, const vector<int> &B) {
     int i=0, j=0;
     vector<int>ans;
@@ -89,7 +89,7 @@ vector<int> Solution::intersect(const vector<int> &A, const vector<int> &B) {
 	- Brute force - O(n<sup>3</sup>)
 	- Two pointers - O(n+m+p)
 
-```
+```cpp
 int Solution::minimize(const vector<int> &A, const vector<int> &B, const vector<int> &C) {
     int difference = INT_MAX;
 
@@ -119,7 +119,7 @@ int Solution::minimize(const vector<int> &A, const vector<int> &B, const vector<
 	- Brute force - 2 for loops, O(n<sup>2</sup>)
 	- Two pointers - O(n)
 
-```
+```cpp
 class Solution {
 public:
     int maxArea(vector<int>& height) {
@@ -151,7 +151,7 @@ public:
 	- Brute force - 3 for loops, O(n<sup>3</sup>)
 	- Fix one pointer in a for loop and then move other 2 pointers, O(n<sup>2</sup>)
 
-```
+```cpp
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
