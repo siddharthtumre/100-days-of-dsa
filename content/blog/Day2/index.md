@@ -19,7 +19,7 @@ Hashing is a technique for storing and retrieving data as fast as possible. We u
 
 ### C++ STL Hashing 
 |                | maps               | unordered maps                          |
-| ------------   | -----------        | --------------                          |
+| :------------  | :-----------       | :--------------                         |
 | Ordering       | increasing         | unordered                               |
 | Insertion      | O(log n)           | O(1)                                    |
 | Accessing      | O(log n)           | O(1)                                    |
@@ -29,6 +29,7 @@ Hashing is a technique for storing and retrieving data as fast as possible. We u
 
 ## Solved Problems
 [2 Sum](https://www.interviewbit.com/problems/2-sum/)
+
 Given an array of integers, find two numbers such that they add up to a specific target number.
 - Approach
 	- Use a map (mp) to store the indices of values in the array. Iterate using a for loop and if target-A[i] is present in the map then return `[mp[target-A[i]], i+1]` else if mp[A[i]] is not in the map (mp) then add `mp[A[i]] = i+1`
@@ -52,6 +53,7 @@ vector<int> Solution::twoSum(const vector<int> &A, int B) {
 ```
 
 [Longest Consecutive Sequence](https://www.interviewbit.com/problems/longest-consecutive-sequence/)
+
 Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 - Approach
 	- Brute force - O(n<sup>3</sup>)
