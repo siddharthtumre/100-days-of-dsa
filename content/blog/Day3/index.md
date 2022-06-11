@@ -1,5 +1,5 @@
 ---
-title: "Day 3"
+title: "Day 3 - Problems"
 date: "2022-06-11"
 ---
 
