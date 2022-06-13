@@ -1,5 +1,5 @@
 ---
-title: "Day 3 - Striver SDE Sheet - Arrays"
+title: "Day 4 - Striver SDE Sheet - Arrays"
 date: "2022-06-12"
 ---
 ## Solved Problems
