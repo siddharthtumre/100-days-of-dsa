@@ -1,5 +1,5 @@
 ---
-title: "Day 56 - HackerRank Data Structures(Trees)"
+title: "Day 6 - HackerRank Data Structures(Trees)"
 date: "2022-06-14"
 ---
 
