@@ -1,5 +1,5 @@
 ---
-title: "Day 5 - Hacker Data Structures(Linked Lists)"
+title: "Day 5 - HackerRank Data Structures(Linked Lists)"
 date: "2022-06-13"
 ---
 ## Solved Problems
