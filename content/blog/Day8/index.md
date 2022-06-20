@@ -118,8 +118,8 @@ void leftView(Node *root, size_t level, vector<int> &ans){
     }
     if(ans.size()==level)
         ans.push_back(root->data);
-    leftView(root->left, level+1, left);
-    leftView(root->right, level+1, left);
+    leftView(root->left, level+1, ans);
+    leftView(root->right, level+1, ans);
 }
 ```
 
@@ -132,7 +132,7 @@ void rightView(Node *root, size_t level, vector<int> &ans){
     }
     if(ans.size()==level)
         ans.push_back(root->data);
-    rightView(root->right, level+1, left);
-    rightView(root->left, level+1, left);
+    rightView(root->right, level+1, ans);
+    rightView(root->left, level+1, ans);
 }
 ```
