@@ -1,3 +1,8 @@
+---
+title: "Day 13 - Stacks and Queues"
+date: "2022-06-22"
+---
+
 [Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)
 
 ```cpp
