@@ -1,5 +1,5 @@
 ---
-title: "Day 13 - Stacks and Queues"
+title: "Day 14 - Stacks and Queues"
 date: "2022-06-22"
 ---
 
