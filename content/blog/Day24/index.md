@@ -1,5 +1,5 @@
 ---
-title: "Day 24"
+title: "Day 24 - Problems"
 date: "2022-07-02"
 ---
 
