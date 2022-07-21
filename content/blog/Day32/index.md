@@ -47,7 +47,7 @@ vector<int> topoSort(int V, vector<int> adj[])
 
 [Topological sort using DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1)
 
-```
+```cpp
 void dfs(int s, vector<bool>& vis, vector<int> adj[], stack<int>& st){
 	vis[s] = true;
 	
